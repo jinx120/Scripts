@@ -1,0 +1,26 @@
+NETHAX V0.1 | 12/1/2020
+
+1.Alpha started. 
+-----------------------
+
+NetHax v0.2 | 12/2/2020
+
+Changed/Added --------
+1. Fixed incorrect grammar on home page. 
+2. Made the prompt look and "feel" better.
+3. Added option to print out the output of certain commands to a TXT file. 
+4. Added CustomCMD, a new NetHax program that has customization options for the NetHax prompt. 
+5. Changed "Secret" name. 
+6. Added "exit" command.
+
+Removed --------
+None
+
+Goals/Future Features
+1. Password and Login system. 
+2. Saved configurations 
+3. NetHax custom UI styles
+4. More advanced commands ( Very big maybe/Might not happen) 
+5. The will to actually consistently work on a single project. (Big Maybe/Might Maybe Not Happen) 
+
+-----------------------
